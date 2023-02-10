@@ -7,7 +7,7 @@ I am using it to convert voice notes on my phone to notes for class.
 To transcribe the audio I am using [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper), Which I find works really well for being free.
 
 ## How To Use The Program
-To use this all you have to do is drag your text into the Audio/audio.txt file then run the main.py. Your output will be in the terminal and under a newly created notes.md
+To use this all you have to do is drag your text into the audio.txt file then run the main.py. Your output will be in the terminal and under a newly created notes.md
   - make sure to download the required packages
   - ```install -r requirements.txt```
   - make sure you enter your own openai api token into the code at the top
