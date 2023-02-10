@@ -9,7 +9,7 @@ try:
     os.remove("notes.md")
 except:
     pass
-with open("Audio/audio.txt", "r") as file:
+with open("audio.txt", "r") as file:
     script = file.read()
 length_output = len(script) 
 print(length_output)
